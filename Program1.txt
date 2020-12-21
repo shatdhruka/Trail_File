@@ -1,0 +1,17 @@
+git commands
+git config --global user.name"shatdhruka"
+git config --global usear.email shatdhrukaece@gmail.com
+git config --list
+mkdir Trail_File
+cd Trail_File/
+mkdir Sample_Repo
+cd Sample_Repo/
+pwd
+git init
+touch Program1
+notepad Program1.txt
+git status
+git add .
+git status
+git add .
+git commit
